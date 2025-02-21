@@ -1,0 +1,9 @@
+dvc
+dvc_gdrive
+numpy
+pandas
+matplotlib
+seaborn
+ruptures
+arviz
+pymc
